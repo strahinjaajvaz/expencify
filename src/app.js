@@ -13,7 +13,6 @@ import "react-dates/initialize"; // needed for _datepicker to work (https://gith
 import "react-dates/lib/css/_datepicker.css";
 
 const store = configureStore();
-
 const jsx = (
   <Provider store={store}>
     <AppRouter />
