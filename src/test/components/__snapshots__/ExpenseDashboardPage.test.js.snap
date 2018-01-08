@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ExpenseDashboardPage compenent 1`] = `
+<div>
+  <h3>
+    <Link
+      replace={false}
+      to="/edit/undefined"
+    >
+      Description: 
+    </Link>
+  </h3>
+  <p>
+    amount: 
+  </p>
+  <p>
+    createdAt: 
+  </p>
+</div>
+`;
